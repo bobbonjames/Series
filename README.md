@@ -2324,3 +2324,22 @@ https://lbsuper.sfplayer.net/playlist/68b6eb0f825736053cff5b56f50dd329/160986839
 https://lbsuper.sfplayer.net/playlist/882e09af2cbded7781f4d048c71ccb6d/1609868613421.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video123/v4/a4/27/d2/a427d248-e7e1-e0fa-5f8a-069c4eec74e8/pr_source.lsr/626x0w.jpg" group-title="Vikings", 6x20 O Último Ato 
 https://lbsuper.sfplayer.net/playlist/998bcd31ca1e241a62f3992bb97202d5/1609868787331.m3u8
+
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x1
+https://lbsuper.sfplayer.net/playlist/b599ae19807f57ecd08bbdceef32c637/1610844203853.m3u8
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x2
+https://lbsuper.sfplayer.net/playlist/226708669a42f606c7f205c94a01d8ba/1610844298985.m3u8
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x3
+https://lbsuper.sfplayer.net/playlist/59fe67918b61d018a090edc9f3ee2191/1611339102489.m3u8
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x4
+https://lbsuper.sfplayer.net/playlist/b55333158f6ca92f28fe23294e1fc72c/1611972992347.m3u8
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x5
+https://lbsuper.sfplayer.net/playlist/b143563616a2f21998744318f1911096/1612561396123.m3u8
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x6
+https://lbsuper.sfplayer.net/hls/2e6be60cbba0ed9438affcabcf8d17cd/2e6be60cbba0ed9438affcabcf8d17cd.m3u8
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x7
+https://lbsuper.sfplayer.net/hls/188cb3e27a9f42e1d25d37b5e94f7b09/188cb3e27a9f42e1d25d37b5e94f7b09.m3u8
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x8
+https://lbsuper.sfplayer.net/hls/e7d5df9998bc59aa889cc9169f89b6d9/e7d5df9998bc59aa889cc9169f89b6d9.m3u8
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x9
+https://lbsuper2.sfplayer.net/hls/5f0fe392c8585d714dd5727d326c6b33/5f0fe392c8585d714dd5727d326c6b33.m3u8
