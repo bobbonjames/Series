@@ -1,5 +1,1256 @@
 #EXTM3U
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/01.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 02
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/02.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 03
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/03.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 04
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/04.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 05
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/05.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 06
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/06.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 07
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/07.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 08
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/08.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 09
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/09.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 10
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/10.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 11
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/11.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 12
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/12.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 13
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/13.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 14
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/14.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 15
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/15.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 16
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/16.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 17
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/17.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 18
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/18.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 19
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/19.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 20
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/20.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 21
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/21.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 22
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/22.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 23
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/23.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 24
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/24.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 25
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/25.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 26
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/26.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 27
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/27.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 28
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/28.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 29
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/29.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 30
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/30.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 31
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/31.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 32
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/32.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 33
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/33.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 34
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/34.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 35
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/35.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 36
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/36.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 37
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/37.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 38
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/38.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 39
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/39.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 40
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/40.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 41
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/41.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 42
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/42.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 43
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/43.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 44
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/44.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 45
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/45.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 46
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/46.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 47
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/47.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 48
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/48.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 49
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/49.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 50
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/50.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 51
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/51.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 52
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/52.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 53
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/53.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 54
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/54.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 55
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/55.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 56
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/56.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 57
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/57.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 58
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/58.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 59
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/59.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 60
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/60.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 61
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/61.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 62
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/62.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 63
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/63.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 64
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/64.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 65
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/65.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 66
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/66.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 67
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/67.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 68
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/68.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 69
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/69.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 70
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/70.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 71
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/71.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 72
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/72.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 73
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/73.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 74
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/74.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 75
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/75.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 76
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/76.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 77
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/77.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 78
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/78.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 79
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/79.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 80
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/80.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 81
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/81.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 82
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/82.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 83
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/83.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 84
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/84.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 85
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/85.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 86
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/86.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 87
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/87.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 88
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/88.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 89
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/89.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 90
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/90.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 91
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/91.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 92
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/92.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 93
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/93.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 94
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/94.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 95
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/95.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 96
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/96.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 97
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/97.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 98
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/98.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 99
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/99.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 100
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/100.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 101
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/101.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 102
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/102.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 103
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/103.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 104
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/104.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 105
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/105.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 106
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/106.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/09/28/b9/0928b9c0-71a3-af2a-cceb-49af8f1027ca/mzl.hawhwgpn.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 107
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/107.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 108
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/108.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 109
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/109.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 110
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/110.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 111
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/111.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 112
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/112.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 113
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/113.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 114
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/114.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 115
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/115.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 116
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/116.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 117
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/117.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 118
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/118.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 119
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/119.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 120
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/120.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 121
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/121.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 122
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/122.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 123
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/123.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 124
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/124.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 125
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/125.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 126
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/126.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 127
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/127.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 128
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/128.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 129
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/129.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 130
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/130.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 131
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/131.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 132
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/132.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 133
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/133.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 134
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/134.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 135
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/135.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 136
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/136.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 137
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/137.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 138
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/138.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/f5/c9/5e/f5c95e20-5a68-a2bb-47ac-5d9400d97ec0/mzl.zqoiygso.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 139
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/139.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 140
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/.140MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 141
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/141.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 142
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/142.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 143
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/143.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 144
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/144.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 145
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/145.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 146
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/146.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 147
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/147.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 148
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/148.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 149
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/149.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 150
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/150.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 151
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/151.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 152
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/152.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 153
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/153.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 154
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/154.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 155
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/155.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 156
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/156.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 157
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/157.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 158
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/158.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 159
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/159.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 160
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/160.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 161
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/161.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 162
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/162.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 163
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/163.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 164
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/164.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 165
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/165.MP4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/ab/bb/cd/abbbcd15-1114-f2bc-a8c2-9f6d753ffd88/mzl.lgqfawjd.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 166
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/166.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 167
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/167.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 168
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/168.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 169
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/169.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 170
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/170.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 171
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/171.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 172
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/172.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 173
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/173.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 174
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/174.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 175
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/175.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 176
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/176.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 177
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/177.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 178
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/178.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 179
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/179.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 180
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/180.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 181
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/181.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 182
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/182.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 183
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/183.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 184
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/184.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 185
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/185.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 186
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/186.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 187
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/187.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 188
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/188.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 189
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/189.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 190
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/190.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 191
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/191.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 192
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/192.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 193
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/193.MP4
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ee/60/b7/ee60b7c7-a86c-1ce7-e329-ed86bdaedb01/mzl.istlnicn.jpg/626x0w.jpg" group-title="Dragon Ball Z", 194
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/194.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 195
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/195.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 196
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/196.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 197
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/197.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 198
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/198.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 199
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/199.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 200
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/200.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 201
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/201.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 202
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/202.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 203
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/203.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 204
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/204.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 205
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/205.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 206
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/206.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 207
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/207.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 208
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/208.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 209
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/209.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 210
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/210.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 211
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/211.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 212
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/212.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 213
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/213.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 214
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/214.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 215
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/215.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 216
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/216.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 217
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/217.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 218
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/218.MP4
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 219
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/219.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 220
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/220.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 221
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/221.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 222
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/222.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 223
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/223.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 224
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/224.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 225
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/225.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 226
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/226.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 227
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/227.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 228
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/228.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 229
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/229.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 230
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/230.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 231
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/231.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 232
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/232.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 233
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/233.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 234
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/234.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 235
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/235.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 236
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/236.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 237
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/237.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 238
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/238.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 239
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/239.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 240
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/240.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 241
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/241.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 242
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/242.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 243
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/243.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 244
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/244.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 245
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/245.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 246
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/246.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 247
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/247.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 248
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/248.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 249
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/249.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 250
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/250.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 251
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/251.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 252
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/252.MP4
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/c0/aa/fa/c0aafaa7-1442-ad01-26f3-89718b86b96f/mzl.shxtalaq.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 253
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/253.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 254
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/254.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 255
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/255.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 256
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/256.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 257
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/257.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 258
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/258.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 259
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/259.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 260
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/260.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 261
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/261.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 262
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/262.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 263
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/263.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 264
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/264.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 265
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/265.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 266
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/266.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 267
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/267.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 268
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/268.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 269
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/269.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 270
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/270.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 271
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/271.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 272
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/272.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 273
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/273.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 274
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/274.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 275
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/275.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 276
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/276.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 277
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/277.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 278
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/278.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 279
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/279.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 280
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/280.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 281
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/281.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 282
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/282.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 283
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/283.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 284
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/284.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 285
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/285.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 286
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/286.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 287
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/287.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 288
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/288.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 289
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/289.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 290
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/290.MP4
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/ba/d1/b9/bad1b9ea-ee03-826d-c17d-82a5430822ff/mzl.idcwjawl.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 291
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/291.MP4
+
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 01
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/01.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 02
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/02.MP4
+ #EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 03
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/03.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 04
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/04.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 05
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/05.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 06
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/06.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 07
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/07.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 08
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/08.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 09
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/09.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 10
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/10.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 11
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/11.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 12
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/12.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 13
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/13.MP4
+ #EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 14
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/14.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 15
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/15.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 16
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/16.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 17
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/17.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 18
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/18.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 19
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/19.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 20
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/20.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 21
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/21.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 22
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/22.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 23
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/23.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 24
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/24.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 25
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/25.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 26
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/26.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 27
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/27.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 28
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/28.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 29
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/29.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 30
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/30.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 31
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/31.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 32
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/32.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 33
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/33.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 34
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/34.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 35
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/35.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 36
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/36.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 37
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/37.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 38
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/38.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 39
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/39.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 40
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/40.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 41
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/41.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 42
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/42.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 43
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/43.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 44
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/44.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 45
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/45.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 46
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/46.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 47
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/47.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 48
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/48.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 49
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/49.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 50
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/50.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 51
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/51.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 52
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/52.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 53
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/53.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 54
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/54.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 55
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/55.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 56
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/56.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 57
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/57.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 58
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/58.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 59
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/59.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 60
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/60.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 61
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/61.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 62
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/62.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 63
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/63.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 64
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/64.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 65
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/65.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 66
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/66.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 67
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/67.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 68
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/68.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 69
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/69.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 70
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/70.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 71
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/71.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 72
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/72.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 73
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/73.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 74
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/74.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 75
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/75.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 76
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/76.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 77
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/77.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 78
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/78.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 79
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/79.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 80 
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/80.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 81
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/81.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 82
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/82.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 83
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/83.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 84
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/84.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 85
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/85.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 86
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/86.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 87
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/87.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 88
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/88.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 89
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/89.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 90
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/90.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 91
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/91.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 92
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/92.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 93
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/93.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 94
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/94.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 95
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/95.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 96
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/96.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 97
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/97.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 98
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/98.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 99
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/99.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 100
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/100.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 101
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/101.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 102
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/102.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 103
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/103.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 104
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/104.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 105
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/105.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 106
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/106.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 107
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/107.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 108
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/108.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 109
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/109.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 110
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/110.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 111
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/111.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 112
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/112.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 113
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/113.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 114
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/114.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 115
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/115.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 116
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/116.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 117
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/117.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 118
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/118.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 119
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/119.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 120
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/120.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 121
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/121.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 122
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/122.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 123
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/123.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 124
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/124.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 125
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/125.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 126
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/126.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 127
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/127.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 128
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/128.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 129
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/129.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 130
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/130.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 131
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/131.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 132
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/132.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 133
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/133.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 134
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/134.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 135
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/135.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 136
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/136.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 137
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/137.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 138
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/138.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 139
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/139.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 140
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/140.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 141
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/141.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 142
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/142.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 143
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/143.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 144
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/144.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 145
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/145.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 146
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/146.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 147
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/147.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 148
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/148.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 149
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/149.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 150
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/150.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 151
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/151.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 152
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/152.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 153
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/153.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 154
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/154.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 155
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/155.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 156
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/156.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 157
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/157.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 158
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/158.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 159
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/159.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 160
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/160.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 161
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/161.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 162
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/162.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 163
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/163.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 164
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/164.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 165
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/165.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 166
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/166.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 167
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/167.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 168
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/168.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 169
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/169.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 170
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/170.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 171
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/171.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 172
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/172.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 173
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/173.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 174
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/174.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 175
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/175.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 176
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/176.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 177
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/177.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 178
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/178.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 179
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/179.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 180
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/180.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 181
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/181.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 182
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/182.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 183
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/183.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 184
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/184.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 185
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/185.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 186
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/186.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 187
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/187.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 188
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/188.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 189
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/189.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 190
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/190.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 191
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/191.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 192
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/192.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 193
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/193.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 194
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/194.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 195
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/195.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 196
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/196.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 197
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/197.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 198
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/198.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 199
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/199.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 200
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/200.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 201
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/201.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 202
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/202.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 203
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/203.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 204
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/204.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 205
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/205.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 206
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/206.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 207
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/207.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 208
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/208.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 209
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/209.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 210
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/210.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 211
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/211.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 212
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/212.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 213
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/213.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 214
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/214.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 215
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/215.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 216
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/216.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 217
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/217.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 218
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/218.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 219
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/219.MP4
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6377/2d621bc0334eebee880e45927dd8dab2a1ae5c4c_hq.jpg" group-title="Naruto", 220
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-classico-dublado/220.MP4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden", 01 - Voltando Para Casa
+https://lbsuper.sfplayer.net/hls/c971ab677659187cbcd825a6a84717ad/c971ab677659187cbcd825a6a84717ad.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden", 02 - Os Akatsuki Entram em Ação
+https://lbsuper.sfplayer.net/hls/5f8e25b988591dd0a7c88566b591e269/5f8e25b988591dd0a7c88566b591e269.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden", 03 - Os Resultados do treinamento
+https://lbsuper.sfplayer.net/hls/779ce16ab69a2f19f6773b487eb33580/779ce16ab69a2f19f6773b487eb33580.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden", 04 - O Jinchuuriki da Areia
+https://lbsuper.sfplayer.net/playlist/d01ba6eff7890a009d08004f935b4fb7/1609609076298.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden", 05 - Kazekage se Mantém no Alto
+https://lbsuper.sfplayer.net/playlist/6402d326902237cb4c7ab5f4e6954750/1609609190415.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden",  06 - Missão Cumprida
+https://lbsuper.sfplayer.net/playlist/6da13bc9b90f34d0001ed4f51e7e6d59/1609609309283.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden", 07 - Corra Kankuro
+https://lbsuper.sfplayer.net/playlist/fd6a6a9cbb2717e82a1e2b768907c37a/1609609412503.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden", 08 -  A Equipe Kakashi Se Mobiliza
+https://lbsuper.sfplayer.net/playlist/8e0ab1637fa70cda8021f47ef4b1b4b0/1609609518301.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/a/a5/Volume_28.png/revision/latest?cb=20120301203838&path-prefix=pt-br" group-title="Naruto Shippuden", 09 - As Lágrimas do Jinchuriki
+https://lbsuper.sfplayer.net/playlist/3f838600a7126955ce651ead5bf61d7c/1609609739584.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/1/1a/Volume_29.png/revision/latest?cb=20150817011419&path-prefix=pt-br" group-title="Naruto Shippuden", 10 - Jutsu de Selamento: Nove Dragões Fantasmas
+https://lbsuper.sfplayer.net/playlist/53803e2d3c3720c70ecf58be9535f28a/1609609901048.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/1/1a/Volume_29.png/revision/latest?cb=20150817011419&path-prefix=pt-br" group-title="Naruto Shippuden", 11 - A Aprendiz de Médica Ninja
+https://lbsuper.sfplayer.net/playlist/66b4f64b6c292653174778c39e0773a1/1609610021032.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/1/1a/Volume_29.png/revision/latest?cb=20150817011419&path-prefix=pt-br" group-title="Naruto Shippuden", 12 - A Determinação da Vovó Aposentada
+https://lbsuper.sfplayer.net/playlist/c5159a4e95bbe31021b64ecf70d55845/1609610227111.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/1/1a/Volume_29.png/revision/latest?cb=20150817011419&path-prefix=pt-br" group-title="Naruto Shippuden", 13 - Um Encontro Com o Destino
+https://lbsuper.sfplayer.net/playlist/e50c408a8388744167450139ea1b103c/1609610517727.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/1/1a/Volume_29.png/revision/latest?cb=20150817011419&path-prefix=pt-br" group-title="Naruto Shippuden", 14 -  O Crescimento de Naruto
+https://lbsuper.sfplayer.net/playlist/591375e7eb206ea55b22cecf218c8fd5/1609610614804.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/1/1a/Volume_29.png/revision/latest?cb=20150817011419&path-prefix=pt-br" group-title="Naruto Shippuden", 15 - A Esfera Secreta se Chama...
+https://lbsuper.sfplayer.net/playlist/68689e8a5a60c04f99b2af28f6eac934/1609610682175.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/1/1a/Volume_29.png/revision/latest?cb=20150817011419&path-prefix=pt-br" group-title="Naruto Shippuden", 16 -  O Segredo do Jinchuriki
+https://lbsuper.sfplayer.net/playlist/868c3b349aa7ac8970ba3cb91ec7ee7e/1609610772099.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/1/1a/Volume_29.png/revision/latest?cb=20150817011419&path-prefix=pt-br" group-title="Naruto Shippuden", 17 -  A Morte do Gaara!
+https://lbsuper.sfplayer.net/playlist/3c70a7b8aafc32f9492d3d490690ca7a/1609611051864.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 18 - Postura Tática! Operação Entrada em Gancho!!
+https://lbsuper.sfplayer.net/playlist/180e68dbcad2fca8633104d107161b44/1609611127484.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 19 - Armadilhas Ativadas! Os Inimigos da Equipe Guy
+https://lbsuper.sfplayer.net/playlist/dd995d1cfa34fe70293a8f637fb8fcab/1609611216717.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 20 - Hiruko contra Duas Kunoichi
+https://lbsuper.sfplayer.net/playlist/4dd57ab9f6a613735ca777cba0943ffb/1609611314236.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 21 - O Verdadeiro Rosto de Sasori
+https://lbsuper.sfplayer.net/hls/10a12f582802a43ab85e0020af77441a/10a12f582802a43ab85e0020af77441a.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 22 - As Habilidades Secretas de Chiyo
+https://lbsuper2.sfplayer.net/hls/c4eaeca4b200c06a7430010558f4ecfc/c4eaeca4b200c06a7430010558f4ecfc.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 23 - Pai e Mãe
+https://lbsuper2.sfplayer.net/hls/3c9b5eee759ce0378d19d8e068dcfb61/3c9b5eee759ce0378d19d8e068dcfb61.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 24 - O Terceiro Kazekage
+https://lbsuper2.sfplayer.net/hls/f487a3c2d543c7bcde6374d5e5dc2fb1/f487a3c2d543c7bcde6374d5e5dc2fb1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 25 - Três Minutos Entre a Vida e a Morte
+https://lbsuper2.sfplayer.net/hls/6d7047beb7f3b00c900c3a4cc942c484/6d7047beb7f3b00c900c3a4cc942c484.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/52/Volume_30.png/revision/latest?cb=20150817011633&path-prefix=pt-br" group-title="Naruto Shippuden", 26 - Luta entre Marionetes: Dez contra Cem!
+https://lbsuper2.sfplayer.net/hls/9f796f4521f3c43c68438cd937813917/9f796f4521f3c43c68438cd937813917.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/f/f7/Volume_31.png/revision/latest?cb=20150817011759&path-prefix=pt-br" group-title="Naruto Shippuden", 27 - Um Sonho Impossível
+https://lbsuper2.sfplayer.net/hls/c87c9fc97877b0ebd417bdc50e185c31/c87c9fc97877b0ebd417bdc50e185c31.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/f/f7/Volume_31.png/revision/latest?cb=20150817011759&path-prefix=pt-br" group-title="Naruto Shippuden", 28 - As Feras Ressuscitadas!
+https://lbsuper2.sfplayer.net/hls/8cdbf4f76e9c7ee8db8cd5fea7dc5bb7/8cdbf4f76e9c7ee8db8cd5fea7dc5bb7.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/f/f7/Volume_31.png/revision/latest?cb=20150817011759&path-prefix=pt-br" group-title="Naruto Shippuden", 29 - Kakashi Iluminado! 
+https://lbsuper2.sfplayer.net/hls/fcb984969f1db53796d80d5bae04deaa/fcb984969f1db53796d80d5bae04deaa.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/f/f7/Volume_31.png/revision/latest?cb=20150817011759&path-prefix=pt-br" group-title="Naruto Shippuden", 30 - A Estética de um Momento
+https://lbsuper2.sfplayer.net/hls/b214f917347a99e646780ec76ada72db/b214f917347a99e646780ec76ada72db.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/f/f7/Volume_31.png/revision/latest?cb=20150817011759&path-prefix=pt-br" group-title="Naruto Shippuden", 31 - O Legado
+https://lbsuper2.sfplayer.net/hls/4700a290a022c9f67b3587606e39b519/4700a290a022c9f67b3587606e39b519.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/f/f7/Volume_31.png/revision/latest?cb=20150817011759&path-prefix=pt-br" group-title="Naruto Shippuden", 32 - A Volta do Kazekage
+https://lbsuper2.sfplayer.net/hls/61497b28acf73862c36ab71aabdedc6d/61497b28acf73862c36ab71aabdedc6d.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/f/f7/Volume_31.png/revision/latest?cb=20150817011759&path-prefix=pt-br" group-title="Naruto Shippuden", 33 - Um Novo Alvo
+https://lbsuper2.sfplayer.net/hls/df037e0b7cd0a8ad7ad171ca8438fe09/df037e0b7cd0a8ad7ad171ca8438fe09.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/f/f7/Volume_31.png/revision/latest?cb=20150817011759&path-prefix=pt-br" group-title="Naruto Shippuden", 34 - Formação! A Nova Equipe Kakashi!
+https://lbsuper2.sfplayer.net/hls/0c3466a41dc121b5bfa52c010fe85c2c/0c3466a41dc121b5bfa52c010fe85c2c.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 35 - Uma Adição Indesejada
+https://lbsuper2.sfplayer.net/hls/5806380bc137bf6576eab7c97ce4a833/5806380bc137bf6576eab7c97ce4a833.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 36 - O Falso Sorriso
+https://lbsuper2.sfplayer.net/hls/2f1fd9fe4e0b3a7b0f8a500e0f1c3d59/2f1fd9fe4e0b3a7b0f8a500e0f1c3d59.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 37 - Sem Título
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/37.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 38 - Simulação
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/38.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 39 - A Ponte Tenchi
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/39.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 40 - A Nove-Caudas se Liberta
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/40.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 41 - A Missão Super-Secreta se Inicia
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/41.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 42 - Orochimaru vs. Jinchuriki
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/42.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/2/2b/Volume_32.png/revision/latest?cb=20150817012636&path-prefix=pt-br" group-title="Naruto Shippuden", 43 - As Lágrimas de Sakura
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/43.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 44 - O Segredo da Batalha
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/44.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 45 - As Consequências da Traição
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/45.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 46 - A Página Inacabada
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/46.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 47 - Infiltração: O Covil da Cobra!
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/47.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 48 - Laços 
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/48.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 49 - Algo Importante...
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/49.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 50 - A História do Álbum Ilustrado
+https://ns545235.ip-144-217-181.net/Uploads/Animes/N/naruto-shippuuden-dublado-pt-brasil/50.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 51 - Encontro
+http://www.animeson.club/naruto-shippuden-dublado/28537.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 52 - O Poder de Uchiha
+http://www.animeson.club/naruto-shippuden-dublado/28539.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-title="Naruto Shippuden", 53 - Título 
+http://www.animeson.club/naruto-shippuden-dublado/28541.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/e/e6/Volume_33.png/revision/latest?cb=20150817012810&path-prefix=pt-br" group-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 54 - Pesadelo (Meio Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28543.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 55 - Vento 
+http://www.animeson.club/naruto-shippuden-dublado/28544.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 56 - Contorção (Meio Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28545.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 57 - O Despertar do Sono Eterno (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28546.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 58 - Solidão (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28548.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 59 - Um Novo Inimigo (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28550.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 60 - Impermanência (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28552.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 61 - Contato (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28554.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 62 - Companheiro de Equipe (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28556.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/6c/Volume_34.png/revision/latest?cb=20150817013000&path-prefix=pt-br" group-title="Naruto Shippuden", 63 - Os Dois Reis (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28558.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 64 - Sinal de Fogo Negro (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28560.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 65 - Presa na Escuridão (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28562.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 66 - Almas Ressuscitada (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28564.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 67 - Uma Luta Até a Morte (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28566.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 68 - Momento do Despertar (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28568.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 69 - Desespero (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28570.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 70 - Ressonância (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28572.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 71 - Meu Amigo (Meio Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28574.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 72 - Uma Ameaça se Aproxima
+http://www.animeson.club/naruto-shippuden-dublado/28576.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/65/Volume_35.png/revision/latest?cb=20150817013131&path-prefix=pt-br" group-title="Naruto Shippuden", 73 - A Invasão da Akatsuki
+http://www.animeson.club/naruto-shippuden-dublado/28578.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 74 - Sob o Céu Estrelado
+http://www.animeson.club/naruto-shippuden-dublado/28580.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 75 - A Oração do Velho Monge
+http://www.animeson.club/naruto-shippuden-dublado/28582.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 76 - O Próximo Passo
+http://www.animeson.club/naruto-shippuden-dublado/28584.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 77 - Escalada de Prata
+http://www.animeson.club/naruto-shippuden-dublado/28586.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 78 - O Julgamento
+http://www.animeson.club/naruto-shippuden-dublado/28588.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 79 - Um Grito Interrompido
+http://www.animeson.club/naruto-shippuden-dublado/28590.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 80 - Últimas Palavras
+http://www.animeson.club/naruto-shippuden-dublado/28592.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 81 - Notícias Tristes
+http://www.animeson.club/naruto-shippuden-dublado/28594.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 82 - Time 10
+http://www.animeson.club/naruto-shippuden-dublado/28596.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/6/63/Volume_36.png/revision/latest?cb=20150817013251&path-prefix=pt-br" group-title="Naruto Shippuden", 83 - Alvo Na Mira!
+http://www.animeson.club/naruto-shippuden-dublado/28598.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 84 - As Habilidades de Kakuzu
+http://www.animeson.club/naruto-shippuden-dublado/28600.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 85 - O Terrível Segredo
+http://www.animeson.club/naruto-shippuden-dublado/28602.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 86 - O Gênio Shikamaru
+http://www.animeson.club/naruto-shippuden-dublado/28604.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 87 - Quando se Amaldiçoa Alguém, Cava-se o Próprio Túmulo
+http://www.animeson.club/naruto-shippuden-dublado/28606.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 88 - Estilo Vento: Rasen Shuriken!
+http://www.animeson.club/naruto-shippuden-dublado/28608.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 89 -  O Preço do Poder
+http://www.animeson.club/naruto-shippuden-dublado/28610.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 90 - A Determinação de Um Shinobi (Meio Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28612.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 91 - O Esconderijo de Orochimaru É Descoberto! (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28614.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 92 - Encontro (Meio Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28616.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/bd/Volume_37.png/revision/latest?cb=20150817013358&path-prefix=pt-br" group-title="Naruto Shippuden", 93 - Conectando Corações (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28618.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 94 - Uma Noite Chuvosa (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28620.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 95 - Os Dois Amuletos (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28622.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 96 - O Inimigo Invisível (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28624.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 97 -  O Labirinto dos Reflexos Distorcidos (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28626.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 98 - O Alvo é Revelado (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28628.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 99 - A Besta de Cauda Barulhenta (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28630.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 100 - Dentro da Nevoeiro (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28632.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 101 - Os Sentimentos de Cada Um (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28634.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 102 - Reagrupando! (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28636.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/b/b6/Volume_38.png/revision/latest?cb=20150817013522&path-prefix=pt-br" group-title="Naruto Shippuden", 103 - A Barreira de Selamento de Quatro Pontas (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28638.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 104 - Quebrando o Estilo Cristal (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28640.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 105 - A Batalha Pela Barreira (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28642.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 106 - A Camélia Vermelha
+http://www.animeson.club/naruto-shippuden-dublado/28644.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 107 - Estranhos Companheiros (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28646.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 108 - O Caminho das Camélias (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28648.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 109 - O Contra-Ataque da Marca da Maldição
+http://www.animeson.club/naruto-shippuden-dublado/28650.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 110 - Consciência Culpada (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28652.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 111 - A Promessa Quebrada (Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28654.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/naruto/images/4/47/Volume_39.png/revision/latest?cb=20150817013703&path-prefix=pt-br" group-title="Naruto Shippuden", 112 - Um Lugar para Retornar (Meio Filler) 
+http://www.animeson.club/naruto-shippuden-dublado/28656.mp4
+
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/th3fa43f436c739c08fffbeefed39f12fa.m3u87 ae9-ef3e-498e18dcf28a/mzl.dtenujou.lsr/626x0w.png" group-title="American Horror Story", 1x1 Os Harmons 
 https://lbsuper.sfplayer.net/hls/c3cf040db30d18fa40997d01f756ca9e/c3cf040db30d18fa40997d01f756ca9e.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video1/v4/85/4e/bd/854ebd1c-9626-3ae9-ef3e-498e18dcf28a/mzl.dtenujou.lsr/626x0w.png" group-title="American Horror Story", 1x2 Invasão da Casa 
