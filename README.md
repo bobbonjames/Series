@@ -1,6 +1,4 @@
-#EXTM3U
-
-#EXTM3U
+#EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/01.MP4
@@ -3186,8 +3184,10 @@ https://lbsuper.sfplayer.net/hls/04acc67a8fcec4b0f2c9725560ddc40a/04acc67a8fcec4
 https://lbsuper.sfplayer.net/hls/f25bb629322727d9d428f9306dc56301/f25bb629322727d9d428f9306dc56301.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x16 Um Destino Certo 
 https://lbsuper.sfplayer.net/hls/77e29ecf1025374c94ede824c6d01b28/77e29ecf1025374c94ede824c6d01b28.m3u8
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x17
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x17 Lar Doce Lar
 https://lbsuper2.sfplayer.net/hls/3fa43f436c739c08fffbeefed39f12fa/3fa43f436c739c08fffbeefed39f12fa.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x18
+https://lbsuper2.sfplayer.net/hls/0e4cd5dc9a9bce3d710c6d6b38691719/0e4cd5dc9a9bce3d710c6d6b38691719.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x1 Titãs 
 https://lbsuper.sfplayer.net/hls/86d0eb41822f5fcd2270f0893fc009dc/86d0eb41822f5fcd2270f0893fc009dc.m3u8
