@@ -1456,6 +1456,162 @@ https://lbsuper.sfplayer.net/hls/ca90783843570084c848803f6c86e288/ca907838435700
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video113/v4/38/70/f0/3870f0e9-46ef-622c-b124-d452ce127e1a/pr_source.lsr/640x640sr.jpg" group-title="American Horror Story", 9x9 Garota Final
 https://lbsuper.sfplayer.net/hls/bedf9e4479735453440ca6e9044ac87d/bedf9e4479735453440ca6e9044ac87d.m3u8
 
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/82/1d/81/821d81f3-b30a-ca8b-97cc-75ac33ae8fef/mzl.xuaedhjx.lsr/536x0w.png" group-title="Breaking Bad", 1x1
+https://lbsuper.sfplayer.net/hls/86d47e32423e3f864ec99d9850965bbc/86d47e32423e3f864ec99d9850965bbc.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/82/1d/81/821d81f3-b30a-ca8b-97cc-75ac33ae8fef/mzl.xuaedhjx.lsr/536x0w.png" group-title="Breaking Bad", 1x2
+https://lbsuper.sfplayer.net/hls/7f9276ce962c3d20d4033307cb4b5bd2/7f9276ce962c3d20d4033307cb4b5bd2.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/82/1d/81/821d81f3-b30a-ca8b-97cc-75ac33ae8fef/mzl.xuaedhjx.lsr/536x0w.png" group-title="Breaking Bad", 1x3
+https://lbsuper.sfplayer.net/hls/ea54b7ca20d703a4201f24db1b3205d5/ea54b7ca20d703a4201f24db1b3205d5.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/82/1d/81/821d81f3-b30a-ca8b-97cc-75ac33ae8fef/mzl.xuaedhjx.lsr/536x0w.png" group-title="Breaking Bad", 1x4
+https://lbsuper.sfplayer.net/hls/ba3ca66cb72b9293cf56cd73e6889ffd/ba3ca66cb72b9293cf56cd73e6889ffd.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/82/1d/81/821d81f3-b30a-ca8b-97cc-75ac33ae8fef/mzl.xuaedhjx.lsr/536x0w.png" group-title="Breaking Bad", 1x5
+https://lbsuper.sfplayer.net/hls/998a16d6660e5bd85878e8cd0ddb2ddf/998a16d6660e5bd85878e8cd0ddb2ddf.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/82/1d/81/821d81f3-b30a-ca8b-97cc-75ac33ae8fef/mzl.xuaedhjx.lsr/536x0w.png" group-title="Breaking Bad", 1x6
+https://lbsuper.sfplayer.net/hls/9054f9182c1da11418e8f7441524a43f/9054f9182c1da11418e8f7441524a43f.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/82/1d/81/821d81f3-b30a-ca8b-97cc-75ac33ae8fef/mzl.xuaedhjx.lsr/536x0w.png" group-title="Breaking Bad", 1x7
+https://lbsuper.sfplayer.net/hls/0b1dcfcaa3c69a777f72afb76f7f8b78/0b1dcfcaa3c69a777f72afb76f7f8b78.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x1
+https://lbsuper.sfplayer.net/hls/79f6b9dd2e8f51e78cb9f00f9437c1b3/79f6b9dd2e8f51e78cb9f00f9437c1b3.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x2
+https://lbsuper.sfplayer.net/hls/0d11979c0deeac6d86f64c053a84bf5b/0d11979c0deeac6d86f64c053a84bf5b.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x3
+https://lbsuper.sfplayer.net/hls/a264a6fd24428af460d6107342c3e12f/a264a6fd24428af460d6107342c3e12f.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x4
+https://lbsuper.sfplayer.net/hls/a9dcbd6042184ce835a0b1041509bf2b/a9dcbd6042184ce835a0b1041509bf2b.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x5
+https://lbsuper.sfplayer.net/hls/9ef3375ae3985e83e0502a69f1f27645/9ef3375ae3985e83e0502a69f1f27645.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x6
+https://lbsuper.sfplayer.net/hls/f5eb8184e5dc29eb7d16461ff9441fdb/f5eb8184e5dc29eb7d16461ff9441fdb.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x7
+https://lbsuper.sfplayer.net/hls/7cb941992457ba3f3f39a64a48e7cea6/7cb941992457ba3f3f39a64a48e7cea6.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x8
+https://lbsuper.sfplayer.net/hls/b3f1b0d68b378c0265f217ae7b266d53/b3f1b0d68b378c0265f217ae7b266d53.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x9
+https://lbsuper.sfplayer.net/hls/b1edf98741de08c8a22e4e9e13001cc8/b1edf98741de08c8a22e4e9e13001cc8.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x10
+https://lbsuper.sfplayer.net/hls/06b7f5744bd68e94e9f4a18c08729f28/06b7f5744bd68e94e9f4a18c08729f28.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x11
+https://lbsuper.sfplayer.net/hls/549ac26e49b8d1c6ccf73ededaa6a2dd/549ac26e49b8d1c6ccf73ededaa6a2dd.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x12
+https://lbsuper.sfplayer.net/hls/d51d4904066442e626d10ce72ae1aba2/d51d4904066442e626d10ce72ae1aba2.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/b5/77/0a/b5770ab5-3d5f-bfa7-fc05-cefe91a08559/mzl.kncgkfjz.lsr/640x640sr.png" group-title="Breaking Bad", 2x13
+https://lbsuper.sfplayer.net/hls/3d521daf0543f0fe05ca60c12638bcb5/3d521daf0543f0fe05ca60c12638bcb5.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x1
+https://lbsuper.sfplayer.net/hls/a1f8787a521c0951936a274ea2269a4c/a1f8787a521c0951936a274ea2269a4c.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x2
+https://lbsuper.sfplayer.net/hls/a37565ffa09fa421dee3177915126440/a37565ffa09fa421dee3177915126440.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x3
+https://lbsuper.sfplayer.net/hls/699c8c93cadcee077c56863326dd2319/699c8c93cadcee077c56863326dd2319.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x4
+https://lbsuper.sfplayer.net/hls/125c52855e37b9fe811b0fcf70019d3c/125c52855e37b9fe811b0fcf70019d3c.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x5
+https://lbsuper.sfplayer.net/hls/f85ca0ec82b69bb3492a8862c9faa323/f85ca0ec82b69bb3492a8862c9faa323.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x6
+https://lbsuper.sfplayer.net/hls/79a0f54d98d940a8d17a6b9da2faee0e/79a0f54d98d940a8d17a6b9da2faee0e.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x7
+https://lbsuper.sfplayer.net/hls/0ca85d7b3a167764e8dd1ec14a78e71a/0ca85d7b3a167764e8dd1ec14a78e71a.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x8
+https://lbsuper.sfplayer.net/hls/f88af510c789c6cfe3b57beb5fcc372d/f88af510c789c6cfe3b57beb5fcc372d.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x9
+https://lbsuper.sfplayer.net/hls/9935d7b01c3d48248b1ca7c57ecbf811/9935d7b01c3d48248b1ca7c57ecbf811.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x10
+https://lbsuper.sfplayer.net/hls/92fee061b4680175c2a9d7ded97728fa/92fee061b4680175c2a9d7ded97728fa.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x11
+https://lbsuper.sfplayer.net/hls/ef032051ed8aa0dbbef75af478b5b771/ef032051ed8aa0dbbef75af478b5b771.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x12
+https://lbsuper.sfplayer.net/hls/669636f1c240a9381271337512879114/669636f1c240a9381271337512879114.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video5/v4/95/a5/53/95a553c8-4fcf-343c-89dc-74b640e7fa90/mzl.acxwnjwb.lsr/640x640sr.png" group-title="Breaking Bad", 3x13
+https://lbsuper.sfplayer.net/hls/424d468a9270c1d5a901b7a42aa565d0/424d468a9270c1d5a901b7a42aa565d0.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x1
+https://lbsuper.sfplayer.net/hls/8097302480ef824a9fd58ee1bf630728/8097302480ef824a9fd58ee1bf630728.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x2
+https://lbsuper.sfplayer.net/hls/beba6f71287f48c313f58140ff92c8ba/beba6f71287f48c313f58140ff92c8ba.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x3
+https://lbsuper.sfplayer.net/hls/e6c1000b956751a146d0cb790e3b461f/e6c1000b956751a146d0cb790e3b461f.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x4
+https://lbsuper.sfplayer.net/hls/bb06951faa6de13566c4ce923ea8bb1c/bb06951faa6de13566c4ce923ea8bb1c.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x5
+https://lbsuper.sfplayer.net/hls/2c7593c76904ee173445ae0a14479ef7/2c7593c76904ee173445ae0a14479ef7.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x6
+https://lbsuper.sfplayer.net/hls/3ce55c7b3bbdd448c4c681a01520eec2/3ce55c7b3bbdd448c4c681a01520eec2.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x7
+https://lbsuper.sfplayer.net/hls/da8652ffb2179ac9025d28357a41a58b/da8652ffb2179ac9025d28357a41a58b.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x8
+https://lbsuper.sfplayer.net/hls/dcd680612cb970fceeeaae0fd902a4c8/dcd680612cb970fceeeaae0fd902a4c8.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x9
+https://lbsuper.sfplayer.net/hls/e81b6056293936a418d7e7d6a12ad68a/e81b6056293936a418d7e7d6a12ad68a.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x10
+https://lbsuper.sfplayer.net/hls/606561860fd22fbea79799f2f55e5bb2/606561860fd22fbea79799f2f55e5bb2.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x11
+https://lbsuper.sfplayer.net/hls/d27fcd205783ffd256e52b3a51c72d0b/d27fcd205783ffd256e52b3a51c72d0b.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x12
+https://lbsuper.sfplayer.net/hls/a7899e72ceef8a3b3d11e0b9983a1962/a7899e72ceef8a3b3d11e0b9983a1962.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x13
+https://lbsuper.sfplayer.net/hls/846bd67fbe3dbff0f5400b7af43ee4c7/846bd67fbe3dbff0f5400b7af43ee4c7.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x1
+https://lbsuper.sfplayer.net/hls/1c30e35540ca3d2a840ceddbd6847e09/1c30e35540ca3d2a840ceddbd6847e09.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x2
+https://lbsuper.sfplayer.net/hls/7c5ddb5b8b71bebd5edad516e36caaa0/7c5ddb5b8b71bebd5edad516e36caaa0.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x3
+https://lbsuper.sfplayer.net/hls/52bd1b4271a8c126c753bd6d10197319/52bd1b4271a8c126c753bd6d10197319.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x4
+https://lbsuper.sfplayer.net/hls/af4c3076087dbe33f8e4df8af0f49a13/af4c3076087dbe33f8e4df8af0f49a13.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x5
+https://lbsuper.sfplayer.net/hls/af4c3076087dbe33f8e4df8af0f49a13/af4c3076087dbe33f8e4df8af0f49a13.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x6
+https://lbsuper.sfplayer.net/hls/0a40ea26d546ca2ebc3be19cb68457c0/0a40ea26d546ca2ebc3be19cb68457c0.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x7
+https://lbsuper.sfplayer.net/hls/c50b741eb2c89855a774f8ac8411ec59/c50b741eb2c89855a774f8ac8411ec59.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x8
+https://lbsuper.sfplayer.net/hls/9a909b2b209d98a0a210da2ab12892c0/9a909b2b209d98a0a210da2ab12892c0.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x9
+https://lbsuper.sfplayer.net/hls/eb166a9312231e030c23a85645de7530/eb166a9312231e030c23a85645de7530.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x10
+https://lbsuper.sfplayer.net/hls/83f8cf7ee73a05d0c8b88e742b92b945/83f8cf7ee73a05d0c8b88e742b92b945.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x11
+https://lbsuper.sfplayer.net/hls/ca48fe86ebdbf62cd2cc247037b4b95c/ca48fe86ebdbf62cd2cc247037b4b95c.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x12
+https://lbsuper.sfplayer.net/hls/57899cf2678cd8ea8bf56060cf48148d/57899cf2678cd8ea8bf56060cf48148d.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x13
+https://lbsuper.sfplayer.net/hls/ac08cfcf3a521c0b0e76a2e8620c757a/ac08cfcf3a521c0b0e76a2e8620c757a.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x14
+https://lbsuper.sfplayer.net/hls/f20acedbcdc1cc32290876effa8c24b9/f20acedbcdc1cc32290876effa8c24b9.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x15
+https://lbsuper.sfplayer.net/hls/142cdb309c6229d5db8340bfcf97fa0b/142cdb309c6229d5db8340bfcf97fa0b.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x16
+https://lbsuper.sfplayer.net/hls/8b8826549af408c7f2e3f0f8351a092a/8b8826549af408c7f2e3f0f8351a092a.m3u8
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x1 Crise nas Terras Infinitas: Hora Cinco
+https://lbsuper.sfplayer.net/hls/6d84ffea98fccfd97d90b109dbe18296/6d84ffea98fccfd97d90b109dbe18296.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x2 Conheçam As Lendas
+https://lbsuper2.sfplayer.net/hls/0d2c321b82e30db6a88bdd7083ad5bdd/0d2c321b82e30db6a88bdd7083ad5bdd.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x3 Senhorita, Me Beije, Me Ame
+https://lbsuper2.sfplayer.net/hls/b23db35b5f31954966030cd40404de68/b23db35b5f31954966030cd40404de68.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x4 Mate Qualquer Coisa 
+https://lbsuper2.sfplayer.net/hls/4579d84c7b6b5c9cdd76bd8513841900/4579d84c7b6b5c9cdd76bd8513841900.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x5 Uma Cabeça de Seu Tempo 
+https://lbsuper2.sfplayer.net/hls/abe295ce57f0a3e3f15f9762ab6964b8/abe295ce57f0a3e3f15f9762ab6964b8.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x6 Mortal Khanbat
+https://lbsuper2.sfplayer.net/hls/3a89171fdfd9543882882d91997ff94b/3a89171fdfd9543882882d91997ff94b.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x7 Rua Sem Saída do Senhor Parker 
+https://lbsuper2.sfplayer.net/hls/670881c5e575c44d972799cd6ed2df3c/670881c5e575c44d972799cd6ed2df3c.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x8 Romeu vs. Julieta: A Origem da Justiça
+https://lbsuper2.sfplayer.net/hls/3dbb78352a6e42f02121cebe605317dc/3dbb78352a6e42f02121cebe605317dc.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x9 Não, Zari Não
+https://lbsuper2.sfplayer.net/hls/c906348e76e800e7a3a4fe186b08fd9c/c906348e76e800e7a3a4fe186b08fd9c.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x10 A Grande Falsificação Britânica
+https://lbsuper.sfplayer.net/hls/9feda3058869b02300be1595892de325/9feda3058869b02300be1595892de325.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x11 Navio Quebrado
+https://lbsuper.sfplayer.net/hls/faa8e508a7a0a384280d436a79193280/faa8e508a7a0a384280d436a79193280.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x12 Geeks & Anormais
+https://lbsuper.sfplayer.net/hls/5ed738ce4127f78174faca855ef3e336/5ed738ce4127f78174faca855ef3e336.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x13 Eu Sou Lendas
+https://lbsuper.sfplayer.net/hls/681fd0c763e887e5d15fce0bdca862fb/681fd0c763e887e5d15fce0bdca862fb.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x14 Aquele Em Que Estamos Presos na TV
+https://lbsuper.sfplayer.net/hls/093caf2517c0360a8a468796d2a8d854/093caf2517c0360a8a468796d2a8d854.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x15 Tanga de Cisne
+https://lbsuper.sfplayer.net/hls/da907866687e88bedee1bb5777e713c9/da907866687e88bedee1bb5777e713c9.m3u8
+
 #EXTINF:-1 tv-logo="https://1.bp.blogspot.com/-B7wx7Hirf8M/Wl9z310sIFI/AAAAAAAABTg/eXVIrAd4nFoIc-pHRqvVsZIufz2rexWYQCPcBGAYYCw/s280/Drake%2B%2526%2BJosh%252C%2BSeason%2B1.jpg" group-title="Drake & Josh", 1x1 Me Abraça Irmão!
 https://lbsuper.sfplayer.net/hls/de1a6d7f141f424bbd949337cca3c6b9/de1a6d7f141f424bbd949337cca3c6b9.m3u8
 #EXTINF:-1 tv-logo="https://1.bp.blogspot.com/-B7wx7Hirf8M/Wl9z310sIFI/AAAAAAAABTg/eXVIrAd4nFoIc-pHRqvVsZIufz2rexWYQCPcBGAYYCw/s280/Drake%2B%2526%2BJosh%252C%2BSeason%2B1.jpg" group-title="Drake & Josh", 1x2 Dois Idiotas e um Bebê
@@ -3186,7 +3342,7 @@ https://lbsuper.sfplayer.net/hls/f25bb629322727d9d428f9306dc56301/f25bb629322727
 https://lbsuper.sfplayer.net/hls/77e29ecf1025374c94ede824c6d01b28/77e29ecf1025374c94ede824c6d01b28.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x17 Lar Doce Lar
 https://lbsuper2.sfplayer.net/hls/3fa43f436c739c08fffbeefed39f12fa/3fa43f436c739c08fffbeefed39f12fa.m3u8
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x18
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x18Encontro
 https://lbsuper2.sfplayer.net/hls/a5637e355d31bae1d0d5955109985bfa/a5637e355d31bae1d0d5955109985bfa.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x1 Titãs 
 https://lbsuper.sfplayer.net/hls/86d0eb41822f5fcd2270f0893fc009dc/86d0eb41822f5fcd2270f0893fc009dc.m3u8
