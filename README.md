@@ -1,8 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/46-465732_tnt-over-black-b-tm-cotton-throw-pillow.png" group-title="Ao Vivo", TNT
-https://streaming.encripted-encriptedhttps://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=lftFEMoDiGCknAvCE_VaEw&3U1G7qaTxrPbalZnEx=1615941638
-
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=lftFEMoDiGCknAvCE_VaEw&3U1G7qaTxrPbalZnEx=1615941638
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/01.MP4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 02
