@@ -3344,8 +3344,10 @@ https://lbsuper.sfplayer.net/hls/f25bb629322727d9d428f9306dc56301/f25bb629322727
 https://lbsuper.sfplayer.net/hls/77e29ecf1025374c94ede824c6d01b28/77e29ecf1025374c94ede824c6d01b28.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x17 Lar Doce Lar
 https://lbsuper2.sfplayer.net/hls/3fa43f436c739c08fffbeefed39f12fa/3fa43f436c739c08fffbeefed39f12fa.m3u8
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x18Encontro
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x18 Encontro
 https://lbsuper2.sfplayer.net/hls/a5637e355d31bae1d0d5955109985bfa/a5637e355d31bae1d0d5955109985bfa.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/0e/74/52/0e745220-6f3e-932e-1303-b15474cbf6f2/pr_source.lsr/626x0w.png" group-title="The Walking Dead", 10x19 Só Mais Um
+https://lbsuper2.sfplayer.net/hls/58b76407db81cc285019730e5accb7dd/58b76407db81cc285019730e5accb7dd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x1 Titãs 
 https://lbsuper.sfplayer.net/hls/86d0eb41822f5fcd2270f0893fc009dc/86d0eb41822f5fcd2270f0893fc009dc.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x2 Rapina e Columba
