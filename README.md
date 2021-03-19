@@ -1654,8 +1654,8 @@ https://lbsuper2.sfplayer.net/hls/a3f2eaa4daec7ac7f81ca91852f9b8fb/a3f2eaa4daec7
 https://lbsuper.sfplayer.net/hls/4b26f5b6836c52e1df9719936e23e07b/4b26f5b6836c52e1df9719936e23e07b.m3u8
 #EXTINF:-1 tv-logo="https://1.bp.blogspot.com/-EEqjQIX_AeI/Wl9z4BuT2gI/AAAAAAAABTg/5ZbKt0-p5uoaj0y0PdfPmL5DZd7xjZFXQCPcBGAYYCw/s280/Drake%2B%2526%2BJosh%252C%2BSeason%2B2.jpg" group-title="Drake & Josh", 2x14 A Fã Numero 1
 https://lbsuper2.sfplayer.net/hls/6270c58e7b85c2e136c9dfaeba3be9bd/6270c58e7b85c2e136c9dfaeba3be9bd.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg" group-title="Falcão e o Soldado Invernal", 1x1
-https://lbsuper2.sfplayer.net/hls/cdc26afd985aca34e659b9c72869cc73/cdc26afd985aca34e659b9c72869cc73.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg" group-title="Falcão e o Soldado Invernal", 1x1 Nova Ordem Mundial
+https://video.wixstatic.com/video/189d4b_9c42ce9dfe54463a98047c61cab92d83/720p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video124/v4/23/94/aa/2394aa18-0489-61c4-06cd-97ea25419b18/pr_source.jpg/626x0w.webp" group-title="Fear The Walking Dead", 6x1 O Fim é o Começo
 https://lbsuper2.sfplayer.net/hls/0d72f4cf82e6afdcf9965d1a2194f2db/0d72f4cf82e6afdcf9965d1a2194f2db.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video124/v4/23/94/aa/2394aa18-0489-61c4-06cd-97ea25419b18/pr_source.jpg/626x0w.webp" group-title="Fear The Walking Dead", 6x2 Bem-Vindo ao Clube
