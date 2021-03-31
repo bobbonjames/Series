@@ -3741,7 +3741,6 @@ https://lbsuper.sfplayer.net/playlist/68b6eb0f825736053cff5b56f50dd329/160986839
 https://lbsuper.sfplayer.net/playlist/882e09af2cbded7781f4d048c71ccb6d/1609868613421.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video123/v4/a4/27/d2/a427d248-e7e1-e0fa-5f8a-069c4eec74e8/pr_source.lsr/626x0w.jpg" group-title="Vikings", 6x20 O Último Ato 
 https://lbsuper.sfplayer.net/playlist/998bcd31ca1e241a62f3992bb97202d5/1609868787331.m3u8
-
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x1
 https://lbsuper.sfplayer.net/playlist/b599ae19807f57ecd08bbdceef32c637/1610844203853.m3u8
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wandavision-poster-1600668936.jpg" group-title="Wandavision", 1x2
