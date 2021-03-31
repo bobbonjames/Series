@@ -3353,6 +3353,8 @@ https://lbsuper2.sfplayer.net/hls/a5637e355d31bae1d0d5955109985bfa/a5637e355d31b
 https://lbsuper2.sfplayer.net/hls/58b76407db81cc285019730e5accb7dd/58b76407db81cc285019730e5accb7dd.m3u8
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/original_untouched/297/744148.jpg" group-title="The Walking Dead", 10x20 Fragmento
 https://lbsuper2.sfplayer.net/hls/5f3c3a945de2769330cb3839ef5477b0/5f3c3a945de2769330cb3839ef5477b0.m3u8
+#EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/original_untouched/297/744148.jpg" group-title="The Walking Dead", 10x21 Divergido 
+https://lbsuper3.sfplayer.net/hls/803ae3fedf618a317a78d2de7f94f6ab/803ae3fedf618a317a78d2de7f94f6ab.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x1 Titãs 
 https://lbsuper.sfplayer.net/hls/86d0eb41822f5fcd2270f0893fc009dc/86d0eb41822f5fcd2270f0893fc009dc.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x2 Rapina e Columba
