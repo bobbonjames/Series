@@ -1660,6 +1660,8 @@ https://lbsuper2.sfplayer.net/hls/6e51fff39bb1566cb73639b5e914ab4e/6e51fff39bb15
 https://lbsuper2.sfplayer.net/hls/71a14b3549a1ad28af397d4aa310ad14/71a14b3549a1ad28af397d4aa310ad14.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg" group-title="Falcão e o Soldado Invernal", 1x3
 https://lbsuper3.sfplayer.net/hls/a0f9ad792cb3a70f4766e96901fec135/a0f9ad792cb3a70f4766e96901fec135.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg" group-title="Falcão e o Soldado Invernal", 1x4
+https://lbsuper3.sfplayer.net/hls/219f296081ce30628180d1bdaff410ae/219f296081ce30628180d1bdaff410ae.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video124/v4/23/94/aa/2394aa18-0489-61c4-06cd-97ea25419b18/pr_source.jpg/626x0w.webp" group-title="Fear The Walking Dead", 6x1 O Fim é o Começo
 https://lbsuper2.sfplayer.net/hls/0d72f4cf82e6afdcf9965d1a2194f2db/0d72f4cf82e6afdcf9965d1a2194f2db.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video124/v4/23/94/aa/2394aa18-0489-61c4-06cd-97ea25419b18/pr_source.jpg/626x0w.webp" group-title="Fear The Walking Dead", 6x2 Bem-Vindo ao Clube
