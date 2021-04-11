@@ -2130,7 +2130,7 @@ https://lbsuper.sfplayer.net/hls/e52794750baeacf82c70bc141d3839a3/e52794750baeac
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video71/v4/57/56/66/57566653-1cb1-a009-ebbf-4c93748315f9/mzl.qgbhrbmz.lsr/640x640sr.png" group-title="Prison Break", 4x21 A Yroca
 https://lbsuper.sfplayer.net/hls/825414109fa19691f081474a590161c9/825414109fa19691f081474a590161c9.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video71/v4/57/56/66/57566653-1cb1-a009-ebbf-4c93748315f9/mzl.qgbhrbmz.lsr/640x640sr.png" group-title="Prison Break", 4x22 A Verdade Revelada 
-http://cdn8.pro-nitro.fun/data/1561/ffe76953ee393cdc671118eb83ca01eb.mp4
+https://seriesonline.top/u/059d85c18b4355d3e280011e5168dbd6.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video1/v4/a8/22/07/a8220730-e433-c413-6858-e29a81d4ca3c/mzl.kahwmzzp.lsr/640x640sr.png" group-title="Prison Break", O Resgate Final 
 https://lbsuper.sfplayer.net/hls/bc032e68a12f8c87a26548e98c5cccfe/bc032e68a12f8c87a26548e98c5cccfe.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/17/38/62/173862ae-8906-9333-8faf-9d11c7f276e3/mzl.bwvezfnl.lsr/640x640sr.jpg" group-title="Prison Break", 5x1 Ogygia
@@ -3486,9 +3486,9 @@ https://lbsuper.sfplayer.net/hls/70ef08878d248ddcf2c7cdab5f750557/70ef08878d248d
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video1/v4/72/4f/bd/724fbd11-55ad-492e-afe8-33777f568295/mzl.uzgasuxk.lsr/640x640sr.png" group-title="True Blood", 4x2 Cheiro Apetitoso 
 https://lbsuper.sfplayer.net/hls/a794a73cf974aa65a43b2b2f27450397/a794a73cf974aa65a43b2b2f27450397.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video1/v4/72/4f/bd/724fbd11-55ad-492e-afe8-33777f568295/mzl.uzgasuxk.lsr/640x640sr.png" group-title="True Blood", 4x3 Se Você Me Ama, Por quê Eu Estou Morrendo? 
-https://lbsuper.sfplayer.net/hls/9018e801c9b5dded57e48e9adf7aacce/9018e801c9b5dded57e48e9adf7aacce.m3u8
+https://seriesonline.top/u/721e8da4cce1d7e18a0d818c2ba9d7a8.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video1/v4/72/4f/bd/724fbd11-55ad-492e-afe8-33777f568295/mzl.uzgasuxk.lsr/640x640sr.png" group-title="True Blood", 4x4 Estou Vivo E Em Chamas 
-http://cdn2.pro-nitro.fun/data/1635/s04e04-dub-720p.mp4?url=true-blood,6517,dub
+https://lbsuper2.sfplayer.net/hls/9018e801c9b5dded57e48e9adf7aacce/9018e801c9b5dded57e48e9adf7aacce.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video1/v4/72/4f/bd/724fbd11-55ad-492e-afe8-33777f568295/mzl.uzgasuxk.lsr/640x640sr.png" group-title="True Blood", 4x5 Eu E O Diabo
 https://lbsuper.sfplayer.net/hls/38e52e423158458e05d46b63e4f7262e/38e52e423158458e05d46b63e4f7262e.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video1/v4/72/4f/bd/724fbd11-55ad-492e-afe8-33777f568295/mzl.uzgasuxk.lsr/640x640sr.png" group-title="True Blood", 4x6 Desejos do Luar 
