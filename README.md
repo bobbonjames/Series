@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/46-465732_tnt-over-black-b-tm-cotton-throw-pillow.png" group-title="Ao Vivo", TNT
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/01.MP4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 02
