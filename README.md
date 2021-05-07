@@ -1530,7 +1530,7 @@ https://lbsuper.sfplayer.net/hls/669636f1c240a9381271337512879114/669636f1c240a9
 https://lbsuper.sfplayer.net/hls/424d468a9270c1d5a901b7a42aa565d0/424d468a9270c1d5a901b7a42aa565d0.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x1 Estilete
 https://lbsuper.sfplayer.net/hls/8097302480ef824a9fd58ee1bf630728/8097302480ef824a9fd58ee1bf630728.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x2 Trinta e Oito Arribitado
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x2 Trinta e Oito Cano Curto
 https://lbsuper.sfplayer.net/hls/beba6f71287f48c313f58140ff92c8ba/beba6f71287f48c313f58140ff92c8ba.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x3 Casa Aberta
 https://lbsuper.sfplayer.net/hls/e6c1000b956751a146d0cb790e3b461f/e6c1000b956751a146d0cb790e3b461f.m3u8
@@ -1540,9 +1540,9 @@ https://lbsuper.sfplayer.net/hls/bb06951faa6de13566c4ce923ea8bb1c/bb06951faa6de1
 https://lbsuper.sfplayer.net/hls/2c7593c76904ee173445ae0a14479ef7/2c7593c76904ee173445ae0a14479ef7.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x6 Encurralado
 https://lbsuper.sfplayer.net/hls/3ce55c7b3bbdd448c4c681a01520eec2/3ce55c7b3bbdd448c4c681a01520eec2.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x7 Cão Problema
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x7 Cão Problemático 
 https://lbsuper.sfplayer.net/hls/da8652ffb2179ac9025d28357a41a58b/da8652ffb2179ac9025d28357a41a58b.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x8 Irmãos
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x8 Hermanos
 https://lbsuper.sfplayer.net/hls/dcd680612cb970fceeeaae0fd902a4c8/dcd680612cb970fceeeaae0fd902a4c8.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x9 Defeito
 https://lbsuper.sfplayer.net/hls/e81b6056293936a418d7e7d6a12ad68a/e81b6056293936a418d7e7d6a12ad68a.m3u8
@@ -1554,8 +1554,8 @@ https://lbsuper.sfplayer.net/hls/d27fcd205783ffd256e52b3a51c72d0b/d27fcd205783ff
 https://lbsuper.sfplayer.net/hls/a7899e72ceef8a3b3d11e0b9983a1962/a7899e72ceef8a3b3d11e0b9983a1962.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/86/ce/7e/86ce7e22-2da1-8fb3-4cc4-7217b4d5999f/mzl.ewdtxofb.lsr/640x640sr.png" group-title="Breaking Bad", 4x13 Cara Fora
 https://lbsuper.sfplayer.net/hls/846bd67fbe3dbff0f5400b7af43ee4c7/846bd67fbe3dbff0f5400b7af43ee4c7.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x1 Ao Vivo Livre ou Morrer
-https://lbsuper.sfplayer.net/hls/1c30e35540ca3d2a840ceddbd6847e09/1c30e35540ca3d2a840ceddbd6847e09.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x1 Viva Livre ou Morrer
+https://seriesonline.top/u/89ef351734b6006bb8bfee1624bd2f11.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x2 Madrigal
 https://lbsuper.sfplayer.net/hls/7c5ddb5b8b71bebd5edad516e36caaa0/7c5ddb5b8b71bebd5edad516e36caaa0.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x3 Subsídio de Risco
