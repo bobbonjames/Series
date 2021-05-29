@@ -5,7 +5,7 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=
 #EXTINF:-1 tvg-logo="" group-title="Ao Vivo", ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniw8z840Fj4keRpW-PqjSRFWWWNf47WlyYx0UbG=s900-c-k-c0x00ffffff-no-rj" group-title="Ao Vivo", carioca
-https://spottonefootball.akamaized.net/hls/live/2029241/1062372_1222854/1222854_4000.m3u8?hdntl=exp=1621777378~acl=/*~data=hdntl~hmac=3488e1b805755c93d298338ce64169bcdc61d6a1fbca52c9bb6c794f4a696f1a&cid=28387&mid=23032425&ecid=1222854&pid=5&dtid=1&ident=645169284011&content=635146&path=spott_onefootball_dfl_02
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/canal-01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/01.MP4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 02
