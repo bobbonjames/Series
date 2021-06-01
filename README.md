@@ -1565,7 +1565,7 @@ https://lbsuper.sfplayer.net/hls/af4c3076087dbe33f8e4df8af0f49a13/af4c3076087dbe
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x5 Frete Morto
 https://lbsuper.sfplayer.net/hls/266fc14bed417cab1c29e461dc897af5/266fc14bed417cab1c29e461dc897af5.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x6 PDV
-https://lb.soufitness.xyz/hls/3060be91eccfe2b62f70bd36f23cebdf/3060be91eccfe2b62f70bd36f23cebdf.m3u8
+https://playnewserie.xyz/player/?url=aHR0cHM6Ly9wYW5kYWZpbGVzLmNvbS81dXI1eDg5ODZ2dHQvQnJlYWtpbmcuQmFkLlMwNUUwNi5NUDQuRFVCLkJhaXhhclNlcmllc01QNC5PcmcubXA0&capapost=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC92bGVRMDNjcjBmYjVEQm12TFkwV0d4ZnM4d2ouanBn&title=Breaking%20Bad%20S05E06%20%E2%80%93%205%C3%9706%20%E2%80%93%20Dublado
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5X7 Diga Meu Nome
 https://lbsuper.sfplayer.net/hls/c50b741eb2c89855a774f8ac8411ec59/c50b741eb2c89855a774f8ac8411ec59.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x8 Pairando Sobre Tudo
