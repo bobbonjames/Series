@@ -1831,6 +1831,8 @@ https://lbsuper.sfplayer.net/hls/8f0830b4627139b7395cfa5df76edd5e/8f0830b4627139
 https://lbsuper.sfplayer.net/hls/b16d52a2086376508729637d2ff924c3/b16d52a2086376508729637d2ff924c3.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video113/v4/db/8c/0f/db8c0ff9-ff6c-b81b-5e2e-0257056ede78/mzl.tgwghial.lsr/640x640sr.jpg" group-title="Game Of Thrones", 8x6 Um Sonho de Primavera
 https://lbsuper.sfplayer.net/hls/ee180b107e33645a491dcc4b6aa5c4ae/ee180b107e33645a491dcc4b6aa5c4ae.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="Loki", 1x1
+https://lbsuper3.sfplayer.net/hls/36b02b36c7fdf45772424d7fb1555e92/36b02b36c7fdf45772424d7fb1555e92.m3u8 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video/v4/25/87/e0/2587e0a6-61ae-70bf-d046-a05c89b297d0/mzl.gvkcsbkv.lsr/626x0w.webp" group-title="Lucifer", 1x1 Piloto
 https://lbsuper.sfplayer.net/hls/ab3c43b7e98855bfd0b93f0ab7948ac0/ab3c43b7e98855bfd0b93f0ab7948ac0.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video/v4/25/87/e0/2587e0a6-61ae-70bf-d046-a05c89b297d0/mzl.gvkcsbkv.lsr/626x0w.webp" group-title="Lucifer", 1x2 Fica, Lucifer. Bom Diabo
