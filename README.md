@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/46-465732_tnt-over-black-b-tm-cotton-throw-pillow.png" group-title="Ao Vivo", TNT 
-https://nusxdb2k9p.azcdn381.net:8443/hls/8uivez2xwc4h8.m3u8?s=jtWpBBlPU0ZR8QInBJK9yA&e=1625708545
+https://y.wmsxx.com:30443/live/78/chunks.m3u8?nimblesessionid=19478016&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjEgODowNDoxMSBQTSZoYXNoX3ZhbHVlPUtZVGxkd1Z3NkJKTnc3NVIxVDhsSEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:-1 tvg-logo="" group-title="Ao Vivo", ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniw8z840Fj4keRpW-PqjSRFWWWNf47WlyYx0UbG=s900-c-k-c0x00ffffff-no-rj" group-title="Ao Vivo", carioca
