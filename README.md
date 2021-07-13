@@ -2655,13 +2655,13 @@ https://lbsuper.sfplayer.net/hls/bd71685146ba3b0fcc89006e23259681/bd71685146ba3b
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/26/bc/27/26bc27de-14f6-c03f-96cc-b5167d1d1d2a/mzl.tlhqtmeb.lsr/640x640sr.png" group-title="Spartacus", 2x2 Missão
 https://lbsuper.sfplayer.net/hls/2be730df00a512ca333c03e15c606a8e/2be730df00a512ca333c03e15c606a8e.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/26/bc/27/26bc27de-14f6-c03f-96cc-b5167d1d1d2a/mzl.tlhqtmeb.lsr/640x640sr.png" group-title="Spartacus", 2x3 Chefe de Família
-https://lbsuper.sfplayer.net/hls/0971e9872ecdc487b53460600ae3ba05/0971e9872ecdc487b53460600ae3ba05.m3u8
+https://player.filmesonlinetv.org/hls/d578dbf36037954284160d1ae5f18bb1/d578dbf36037954284160d1ae5f18bb1.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/26/bc/27/26bc27de-14f6-c03f-96cc-b5167d1d1d2a/mzl.tlhqtmeb.lsr/640x640sr.png" group-title="Spartacus", 2x4 Sob a Máscara
 https://lbsuper.sfplayer.net/hls/8463530e0c5ff12b334ffe81dd797df9/8463530e0c5ff12b334ffe81dd797df9.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/26/bc/27/26bc27de-14f6-c03f-96cc-b5167d1d1d2a/mzl.tlhqtmeb.lsr/640x640sr.png" group-title="Spartacus", 2x5 Avaliação
-https://lbsuper.sfplayer.net/hls/7214a0f02a8452387205be58e4ecd9b4/7214a0f02a8452387205be58e4ecd9b4.m3u8
+https://player.filmesonlinetv.org/hls/769fda37f7d0ecfc1ba34d29704e1b78/769fda37f7d0ecfc1ba34d29704e1b78.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/26/bc/27/26bc27de-14f6-c03f-96cc-b5167d1d1d2a/mzl.tlhqtmeb.lsr/640x640sr.png" group-title="Spartacus", 2x6 O Desgosto Final
-https://lbsuper.sfplayer.net/hls/2ae485b8a8bb21f13fa9bb967fccf881/2ae485b8a8bb21f13fa9bb967fccf881.m3u8
+https://player.filmesonlinetv.org/hls/b78258f2b4eae1211c549b3244c3342d/b78258f2b4eae1211c549b3244c3342d.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video1/v4/c6/ab/38/c6ab38c4-6eb9-2ce8-9ece-6013ff4e42f4/mzl.qenktjqx.lsr/320x320sr.png" group-title="Spartacus", 3x1 Fugitivos
 https://lbsuper.sfplayer.net/hls/ec86f3a19639847a30ecc7af2b7315f1/ec86f3a19639847a30ecc7af2b7315f1.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video1/v4/c6/ab/38/c6ab38c4-6eb9-2ce8-9ece-6013ff4e42f4/mzl.qenktjqx.lsr/320x320sr.png" group-title="Spartacus", 3x2 Um Lugar Nesse Mundo
