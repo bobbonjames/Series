@@ -2793,23 +2793,23 @@ https://player.filmesonlinetv.org/hls/9dc8fbed5ff94102c571cf99824f9249/9dc8fbed5
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video111/v4/2e/f9/fa/2ef9fa60-12a0-17e4-4707-2eb1befa9f33/mzl.eaqfzixa.lsr/626x0w.jpg" group-title="The Handmaid's Tale", 1x9 A Ponte 
 https://player.filmesonlinetv.org/hls/1661baf3624ec16408ae03bb68d0ac41/1661baf3624ec16408ae03bb68d0ac41.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video111/v4/2e/f9/fa/2ef9fa60-12a0-17e4-4707-2eb1befa9f33/mzl.eaqfzixa.lsr/626x0w.jpg" group-title="The Handmaid's Tale", 1x10 Noite 
-
+https://player.filmesonlinetv.org/hls/8f03e68a7ec86c5a2bada3a1c082b0fa/8f03e68a7ec86c5a2bada3a1c082b0fa.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x1 June
-https://lbsuper.sfplayer.net/hls/8fd67e0bcd7883e6338723efa86fea8b/8fd67e0bcd7883e6338723efa86fea8b.m3u8
+https://player.filmesonlinetv.org/hls/03f64069993cec31ea0ea168e1cefd68/03f64069993cec31ea0ea168e1cefd68.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x2 Não Mulheres 
-https://lbsuper.sfplayer.net/hls/f3612a44c6f6d64b337d09ad8645c514/f3612a44c6f6d64b337d09ad8645c514.m3u8 
+https://player.filmesonlinetv.org/hls/4181033865d08588fdf48215aebc8c12/4181033865d08588fdf48215aebc8c12.m3u8 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x3 Bagagem 
-https://lbsuper.sfplayer.net/hls/fb4a0f181a112a6f6b864b154eff43d6/fb4a0f181a112a6f6b864b154eff43d6.m3u8
+https://player.filmesonlinetv.org/hls/d6d8925c1f3f4b4f0152feff2b9715ce/d6d8925c1f3f4b4f0152feff2b9715ce.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x4 Outras Mulheres 
-https://lbsuper.sfplayer.net/hls/a742ce6070d660715de701c31a5b0f4f/a742ce6070d660715de701c31a5b0f4f.m3u8
+https://player.filmesonlinetv.org/hls/2daa100beef880399b1e5d91d0c54b4d/2daa100beef880399b1e5d91d0c54b4d.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x5 Sementes
-https://lbsuper.sfplayer.net/hls/dca7018373a3336dc06de934b35f5df7/dca7018373a3336dc06de934b35f5df7.m3u8
+https://player.filmesonlinetv.org/hls/e8b41c15d36788a7f9849bd9af02b36c/e8b41c15d36788a7f9849bd9af02b36c.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x6 Primeiro Sangue
-https://lbsuper.sfplayer.net/hls/7d95c41e657c1b6a81d40c7b9b6268f6/7d95c41e657c1b6a81d40c7b9b6268f6.m3u8
+https://player.filmesonlinetv.org/hls/5590c85197b8e928ad20e9df5683cfcb/5590c85197b8e928ad20e9df5683cfcb.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x7 Depois 
-https://lbsuper.sfplayer.net/hls/c836a346c5a7b833eb386d62be264277/c836a346c5a7b833eb386d62be264277.m3u8
+https://player.filmesonlinetv.org/hls/7cadeabfa7ea78cbd1b5741f50c518ae/7cadeabfa7ea78cbd1b5741f50c518ae.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x8 O Trabalho das Mulheres
-https://lbsuper.sfplayer.net/hls/1c3753dfb60e6fa8d43c8b0b929db777/1c3753dfb60e6fa8d43c8b0b929db777.m3u8
+https://player.filmesonlinetv.org/hls/509f8ad50dd93ac75ff21dcf2ea5c38f/509f8ad50dd93ac75ff21dcf2ea5c38f.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x9 Poder Inteligente 
 https://lbsuper.sfplayer.net/hls/349a3f35669ae11cfa74c541a90b9b31/349a3f35669ae11cfa74c541a90b9b31.m3u8 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/55/ec/b8/55ecb818-e4ea-86fc-11dd-cf935a928c8c/mzl.zzbeivim.lsr/640x640sr.jpg" group-title="The Handmaid's Tale", 2x10 A Última Cerimônia
