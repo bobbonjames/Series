@@ -1,11 +1,11 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/46-465732_tnt-over-black-b-tm-cotton-throw-pillow.png" group-title="Ao Vivo", TNT 
-https://nusxdb2k9p.azcdn381.net:8443/hls/163t5tqla6dw31.m3u8?s=3EfqzKrI9KS-x9zL-eD2gA&e=1625716674
+https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=exp=1629310884~acl=%2f*~data=hdntl~hmac=9d46ca19a7db691abb9dba9779a9191634fbabdcbacf0667b8f27de1afed2349/1474980_2000.m3u8?cid=28387&mid=27475114&ecid=1474980&pid=5&dtid=1&ident=872409924584&content=875218
 #EXTINF:-1 tvg-logo="" group-title="Ao Vivo", ESPN
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
+https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=exp=1629310884~acl=%2f*~data=hdntl~hmac=9d46ca19a7db691abb9dba9779a9191634fbabdcbacf0667b8f27de1afed2349/1474980_800.m3u8?cid=28387&mid=27475114&ecid=1474980&pid=5&dtid=1&ident=872409924584&content=875218
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniw8z840Fj4keRpW-PqjSRFWWWNf47WlyYx0UbG=s900-c-k-c0x00ffffff-no-rj" group-title="Ao Vivo", carioca
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/canal-01/playlist-720p.m3u8
+https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=exp=1629310884~acl=%2f*~data=hdntl~hmac=9d46ca19a7db691abb9dba9779a9191634fbabdcbacf0667b8f27de1afed2349/1474980_448.m3u8?cid=28387&mid=27475114&ecid=1474980&pid=5&dtid=1&ident=872409924584&content=875218
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/01.MP4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 02
