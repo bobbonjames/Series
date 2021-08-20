@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/46-465732_tnt-over-black-b-tm-cotton-throw-pillow.png" group-title="Ao Vivo", TNT 
-https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=exp=1629310884~acl=%2f*~data=hdntl~hmac=9d46ca19a7db691abb9dba9779a9191634fbabdcbacf0667b8f27de1afed2349/1474980_2000.m3u8?cid=28387&mid=27475114&ecid=1474980&pid=5&dtid=1&ident=872409924584&content=875218
+magnet:?xt=urn:btih:B28853963779FDC6D1AC1E822DD8AFE58688F456&dn=COMOEUBAIXO.COM..MKV.Velozes%20e%20Furiosos%209%202021%20720p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 #EXTINF:-1 tvg-logo="" group-title="Ao Vivo", ESPN
 https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=exp=1629310884~acl=%2f*~data=hdntl~hmac=9d46ca19a7db691abb9dba9779a9191634fbabdcbacf0667b8f27de1afed2349/1474980_800.m3u8?cid=28387&mid=27475114&ecid=1474980&pid=5&dtid=1&ident=872409924584&content=875218
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniw8z840Fj4keRpW-PqjSRFWWWNf47WlyYx0UbG=s900-c-k-c0x00ffffff-no-rj" group-title="Ao Vivo", carioca
