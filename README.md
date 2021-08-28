@@ -1,5 +1,65 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x1
+https://player.filmesonlinetv.org/hls/df17d9f0dfd553e193b5d7ae8b141377/df17d9f0dfd553e193b5d7ae8b141377.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x2
+https://player.filmesonlinetv.org/hls/3cb72fcdde3703f2ae0659c1e0599195/3cb72fcdde3703f2ae0659c1e0599195.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x3
+https://ultracine.app/player/27/d8462a9ae83e716c5248526a9cc1f054
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x4
+https://player.filmesonlinetv.org/hls/4eee098da2fe566011c597b0ee99beb4/4eee098da2fe566011c597b0ee99beb4.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x5
+https://ultracine.app/player/27/9ad5393f2cf8eb60014f42d52e072141
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x6
+https://ultracine.app/player/27/c62bcad9af56449a9538879d10b21d4d
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x1
+https://ultracine.app/player/27/07a79b0fc8775695325d90ee4f388a60
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x2
+https://ultracine.app/player/27/fa1c854f59fb7d94185b54c301f381af
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x3
+https://ultracine.app/player/27/b72ba2bbd286bf4716af4e9e5918e09b
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x4
+https://ultracine.app/player/27/e8fe51a449f474ab880990ce490fe93d
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x5
+https://ultracine.app/player/27/02009ff7d592589cd98bd079ef5f0b99
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x6
+https://ultracine.app/player/27/28008fb1fa3bff2431048b2baf03d24b
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x1
+https://ultracine.app/player/27/bae4a4ea23212681126a075198659611
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x2
+https://ultracine.app/player/27/c10970b040f6de37271107c4f922c7aa
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x3
+https://ultracine.app/player/27/8c9e14d1fc3c9c8097f2bb9249ddc8a3
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x4
+https://ultracine.app/player/27/dc96c93d7f5294374b907abeadb5500c
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x5
+https://ultracine.app/player/27/39d1706bb8b5391055ac3c9c81aef905
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x6
+https://ultracine.app/player/27/270d4aa1c2eea15495d20a00dd4e709a
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x1
+https://ultracine.app/player/27/a965b90ea21872324861bc84d3faaa06
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x2
+https://ultracine.app/player/27/dfd3248783f3781738f031872c6169ae
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x3
+https://ultracine.app/player/27/c7f5a0458b5d99fc72286230dd35c38c
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x4
+https://ultracine.app/player/27/720d849699e50debe453306dae8ce65c
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x5
+https://ultracine.app/player/27/26710df4570247ad9a190f1e71a00281
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x6
+https://ultracine.app/player/27/c533984698d10e831f2671f25d7b1944
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x1
+https://player.filmesonlinetv.org/hls/78edd149189cd3477d3600dde269e7e3/78edd149189cd3477d3600dde269e7e3.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x2
+https://player.filmesonlinetv.org/hls/83908d87021a580a56f64ae0213cd067/83908d87021a580a56f64ae0213cd067.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x3
+https://player.filmesonlinetv.org/hls/a3cc857e43dfe4ad9020976a31d74128/a3cc857e43dfe4ad9020976a31d74128.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x4
+https://player.filmesonlinetv.org/hls/027f6dcf8f9323c9e657d6d424c3dce5/027f6dcf8f9323c9e657d6d424c3dce5.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x5
+https://player.filmesonlinetv.org/hls/e7dd914aade9e28bc1022498fbf184d3/e7dd914aade9e28bc1022498fbf184d3.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x6
+https://player.filmesonlinetv.org/hls/8a819caba005820cae8d51b723e8754c/8a819caba005820cae8d51b723e8754c.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/46-465732_tnt-over-black-b-tm-cotton-throw-pillow.png" group-title="Ao Vivo", TNT 
 magnet:?xt=urn:btih:B28853963779FDC6D1AC1E822DD8AFE58688F456&dn=COMOEUBAIXO.COM..MKV.Velozes%20e%20Furiosos%209%202021%20720p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 #EXTINF:-1 tvg-logo="" group-title="Ao Vivo", ESPN
