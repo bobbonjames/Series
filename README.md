@@ -1658,6 +1658,8 @@ https://lbsuper.sfplayer.net/hls/f20acedbcdc1cc32290876effa8c24b9/f20acedbcdc1cc
 https://lbsuper.sfplayer.net/hls/142cdb309c6229d5db8340bfcf97fa0b/142cdb309c6229d5db8340bfcf97fa0b.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/7b/99/f7/7b99f7b5-ee66-422e-2c16-3625525f11b9/mzl.fbwmkpdg.lsr/640x640sr.png" group-title="Breaking Bad", 5x16 Felina
 https://lbsuper.sfplayer.net/hls/8b8826549af408c7f2e3f0f8351a092a/8b8826549af408c7f2e3f0f8351a092a.m3u8
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67706c0000bebbf7436c5a1d3eee73a0a37ab0" group-title="Breaking Bad", El Caminho
+https://gofilmes.me/play/wx.php?a2FqTFVtUHQwQXBYeCthV0N0eGVNMTIwd1RIUlJmcEFRNS90YWFQdmJ4L1lZUVhqemFuc2JGd1N2NHhPUm9oLw==
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/7c/72/9c/7c729c70-f167-029f-0d08-2360cb747102/pr_source.lsr/626x0w.jpg" group-title="DC's Legends Of Tomorrow", 5x1 Crise nas Terras Infinitas: Hora Cinco
 https://lbsuper.sfplayer.net/hls/6d84ffea98fccfd97d90b109dbe18296/6d84ffea98fccfd97d90b109dbe18296.m3u8
