@@ -1,4 +1,4 @@
-11x  M3U 
+#EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/aTG6RjtQvLQhl2dImG_eVmNQEQA=/290x478/smart/media/movies/covers/2020/06/3352729.jpg" group-title="Stateless", 1x1
 https://ultracine.app/player/27/893c3cfb768ce569858a995f2980c1e5
@@ -3448,9 +3448,9 @@ https://lbsuper3.sfplayer.net/hls/803ae3fedf618a317a78d2de7f94f6ab/803ae3fedf618
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/original_untouched/297/744148.jpg" group-title="The Walking Dead", 10x22 Aqui Está Negan
 https://lbsuper3.sfplayer.net/hls/4fe039940fd1ea0b85a33681e325fe30/4fe039940fd1ea0b85a33681e325fe30.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E75_whmXEAQJaEb.jpg" group-title="The Walking Dead", 11x1
-https://gofilmes.me/play/pd.php?TFJsQ2gveFZieWU1KzhjU0RTbXVLSGpDZFVSSHlBL0dzcUprNjBMS2lHZ1Zpb3BmMWdhR2Z0ZjA5YzltcmNGdXVvbGJnUWE0bVkzS2VjeXJKTDRkOVE9PQ==
+https://superflix.site/?trembed=0&trid=35721&trtype=2
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E75_whmXEAQJaEb.jpg" group-title="The Walking Dead", 11x2
-https://gofilmes.me/play/pd.php?TFJsQ2gveFZieWU1KzhjU0RTbXVLSGpDZFVSSHlBL0dzcUprNjBMS2lHZ1Zpb3BmMWdhR2Z0ZjA5YzltcmNGdXVvbGJnUWE0bVkzS2VjeXJKTDRkOVE9PQ==
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x1 Titãs 
 https://lbsuper.sfplayer.net/hls/86d0eb41822f5fcd2270f0893fc009dc/86d0eb41822f5fcd2270f0893fc009dc.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x2 Rapina e Columba
