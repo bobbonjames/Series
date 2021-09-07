@@ -21,7 +21,7 @@ https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDRE
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x4
 https://player.filmesonlinetv.org/hls/4eee098da2fe566011c597b0ee99beb4/4eee098da2fe566011c597b0ee99beb4.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x5
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x6
 https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x1
