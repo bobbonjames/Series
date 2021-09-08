@@ -1,65 +1,65 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/aTG6RjtQvLQhl2dImG_eVmNQEQA=/290x478/smart/media/movies/covers/2020/06/3352729.jpg" group-title="Stateless", 1x1
-https://ultracine.app/player/27/893c3cfb768ce569858a995f2980c1e5
+https://play2.bolsonaro.xyz/hls/893c3cfb768ce569858a995f2980c1e5/893c3cfb768ce569858a995f2980c1e5.m3u8
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/aTG6RjtQvLQhl2dImG_eVmNQEQA=/290x478/smart/media/movies/covers/2020/06/3352729.jpg" group-title="Stateless", 1x2
-https://ultracine.app/player/27/ddb9e748bf36cc1f627aae2bc1976148
+https://play2.bolsonaro.xyz/hls/ddb9e748bf36cc1f627aae2bc1976148/ddb9e748bf36cc1f627aae2bc1976148.m3u8
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/aTG6RjtQvLQhl2dImG_eVmNQEQA=/290x478/smart/media/movies/covers/2020/06/3352729.jpg" group-title="Stateless", 1x3
-https://ultracine.app/player/27/f7371053b29e9b13d680558d15720d06
+https://play2.bolsonaro.xyz/hls/f7371053b29e9b13d680558d15720d06/f7371053b29e9b13d680558d15720d06.m3u8
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/aTG6RjtQvLQhl2dImG_eVmNQEQA=/290x478/smart/media/movies/covers/2020/06/3352729.jpg" group-title="Stateless", 1x4
-https://ultracine.app/player/27/3c67d11253d80dd685177e00b7cc023b
+https://play2.bolsonaro.xyz/hls/3c67d11253d80dd685177e00b7cc023b/3c67d11253d80dd685177e00b7cc023b.m3u8
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/aTG6RjtQvLQhl2dImG_eVmNQEQA=/290x478/smart/media/movies/covers/2020/06/3352729.jpg" group-title="Stateless", 1x5
-https://ultracine.app/player/27/cd47bea43f8c2a1281c34f2eb161a97f
+https://play2.bolsonaro.xyz/hls/cd47bea43f8c2a1281c34f2eb161a97f/cd47bea43f8c2a1281c34f2eb161a97f.m3u8
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/aTG6RjtQvLQhl2dImG_eVmNQEQA=/290x478/smart/media/movies/covers/2020/06/3352729.jpg" group-title="Stateless", 1x6
-https://ultracine.app/player/27/11c8e8ef6f2128f2d00323e00ac29345
+https://play2.bolsonaro.xyz/hls/11c8e8ef6f2128f2d00323e00ac29345/11c8e8ef6f2128f2d00323e00ac29345.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x1
 https://player.filmesonlinetv.org/hls/df17d9f0dfd553e193b5d7ae8b141377/df17d9f0dfd553e193b5d7ae8b141377.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x2
 https://player.filmesonlinetv.org/hls/3cb72fcdde3703f2ae0659c1e0599195/3cb72fcdde3703f2ae0659c1e0599195.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x3
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39217&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x4
 https://player.filmesonlinetv.org/hls/4eee098da2fe566011c597b0ee99beb4/4eee098da2fe566011c597b0ee99beb4.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x5
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ
+https://superflix.site/?trembed=0&trid=39219&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x6
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39220&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x1
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39221&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x2
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39222&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x3
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39223&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x4
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39224&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x5
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39225&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x6
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39226&trtype=2
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x1
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39227&trtype=2
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x2
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39228&trtype=2
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x3
-https://gofilmes.me/play/ff.php?eUhtWGNUdkY4SUVJdllWNytJdkgwbDVUUU1qUkY2YTJ5MDREUlZRMENtRFV3bWh0endGbzZEVFNRRnZvcml5QmJJbkpLMGxsTHA1anZyMmJmLzZVSFE9PQ==
+https://superflix.site/?trembed=0&trid=39229&trtype=2
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x4
-https://ultracine.app/player/27/dc96c93d7f5294374b907abeadb5500c
+https://superflix.site/?trembed=0&trid=39230&trtype=2
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x5
-https://ultracine.app/player/27/39d1706bb8b5391055ac3c9c81aef905
+https://superflix.site/?trembed=0&trid=39231&trtype=2
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/6e/d6/ef/6ed6ef3a-89b4-daf9-485d-9e37ad348aaa/mzl.eakiaemj.lsr/640x640sr.jpg" group-title="Peaky Blinders", 3x6
-https://ultracine.app/player/27/270d4aa1c2eea15495d20a00dd4e709a
+https://superflix.site/?trembed=0&trid=39232&trtype=2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x1
-https://ultracine.app/player/27/a965b90ea21872324861bc84d3faaa06
+https://superflix.site/?trembed=0&trid=39233&trtype=2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x2
-https://ultracine.app/player/27/dfd3248783f3781738f031872c6169ae
+https://superflix.site/?trembed=0&trid=39234&trtype=2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x3
-https://ultracine.app/player/27/c7f5a0458b5d99fc72286230dd35c38c
+https://superflix.site/?trembed=0&trid=39235&trtype=2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x4
-https://ultracine.app/player/27/720d849699e50debe453306dae8ce65c
+https://superflix.site/?trembed=0&trid=39236&trtype=2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x5
-https://ultracine.app/player/27/26710df4570247ad9a190f1e71a00281
+https://superflix.site/?trembed=0&trid=39237&trtype=2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video20/v4/e4/7b/39/e47b398c-f780-3362-1d35-79b29c8cb366/mzl.dlvrkkvr.lsr/640x640sr.png" group-title="Peaky Blinders", 4x6
-https://ultracine.app/player/27/c533984698d10e831f2671f25d7b1944
+https://superflix.site/?trembed=0&trid=39238&trtype=2
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x1
 https://player.filmesonlinetv.org/hls/78edd149189cd3477d3600dde269e7e3/78edd149189cd3477d3600dde269e7e3.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x2
