@@ -73,9 +73,9 @@ https://player.filmesonlinetv.org/hls/e7dd914aade9e28bc1022498fbf184d3/e7dd914aa
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x6
 https://player.filmesonlinetv.org/hls/8a819caba005820cae8d51b723e8754c/8a819caba005820cae8d51b723e8754c.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/46-465732_tnt-over-black-b-tm-cotton-throw-pillow.png" group-title="Ao Vivo", TNT 
-magnet:?xt=urn:btih:B28853963779FDC6D1AC1E822DD8AFE58688F456&dn=COMOEUBAIXO.COM..MKV.Velozes%20e%20Furiosos%209%202021%20720p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+https://spottonefootball.akamaized.net/hls/live/2020169/1337586_1537336/hdntl=exp=1631453085~acl=%2f*~data=hdntl~hmac=b43745c2d0af0832d9b692025dc4f8f00f197502dc62c8845634a5420ffcbec3/1537336_800.m3u8?cid=28387&mid=27883146&ecid=1537336&pid=5&dtid=1&ident=336183349676&content=938476
 #EXTINF:-1 tvg-logo="" group-title="Ao Vivo", ESPN
-https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=exp=1629310884~acl=%2f*~data=hdntl~hmac=9d46ca19a7db691abb9dba9779a9191634fbabdcbacf0667b8f27de1afed2349/1474980_800.m3u8?cid=28387&mid=27475114&ecid=1474980&pid=5&dtid=1&ident=872409924584&content=875218
+https://spottonefootball.akamaized.net/hls/live/2020169-b/1337586_1537336/hdntl=exp=1631453085~acl=%2f*~data=hdntl~hmac=b43745c2d0af0832d9b692025dc4f8f00f197502dc62c8845634a5420ffcbec3/1537336_800.m3u8?cid=28387&mid=27883146&ecid=1537336&pid=5&dtid=1&ident=336183349676&content=938476
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniw8z840Fj4keRpW-PqjSRFWWWNf47WlyYx0UbG=s900-c-k-c0x00ffffff-no-rj" group-title="Ao Vivo", carioca
 https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=exp=1629310884~acl=%2f*~data=hdntl~hmac=9d46ca19a7db691abb9dba9779a9191634fbabdcbacf0667b8f27de1afed2349/1474980_448.m3u8?cid=28387&mid=27475114&ecid=1474980&pid=5&dtid=1&ident=872409924584&content=875218
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
