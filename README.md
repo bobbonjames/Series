@@ -476,7 +476,7 @@ https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-tempo
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 204
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/204.MP4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 205
-https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/205.MP4
+https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/205.MP4j9
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 206
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/206.MP4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/6d/8d/f5/6d8df554-019e-02a1-69be-9dcaa0bee757/mzl.yxfynlah.jpg/640x640sr.jpg" group-title="Dragon Ball Z", 207
@@ -3439,7 +3439,11 @@ https://lbsuper3.sfplayer.net/hls/4fe039940fd1ea0b85a33681e325fe30/4fe039940fd1e
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E75_whmXEAQJaEb.jpg" group-title="The Walking Dead", 11x1
 https://superflix.site/?trembed=0&trid=35721&trtype=2
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E75_whmXEAQJaEb.jpg" group-title="The Walking Dead", 11x2
-https://superflix.site/?trembed=0&trid=35721&trtype=2
+https://superflix.site/?trembed=0&trid=35722&trtype=2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E75_whmXEAQJaEb.jpg" group-title="The Walking Dead", 11x3
+https://superflix.site/?trembed=0&trid=35723&trtype=2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E75_whmXEAQJaEb.jpg" group-title="The Walking Dead", 11x4
+https://superflix.site/?trembed=0&trid=35724&trtype=2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x1 Titãs 
 https://lbsuper.sfplayer.net/hls/86d0eb41822f5fcd2270f0893fc009dc/86d0eb41822f5fcd2270f0893fc009dc.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR632qYsRO916tWuTZqf9zBbEgs5cR8fXA93w&usqp=CAU" group-title="Titans", 1x2 Rapina e Columba
