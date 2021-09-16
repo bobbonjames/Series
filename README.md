@@ -68,7 +68,7 @@ https://spottonefootball.akamaized.net/hls/live/2020169-b/1337586_1537336/hdntl=
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniw8z840Fj4keRpW-PqjSRFWWWNf47WlyYx0UbG=s900-c-k-c0x00ffffff-no-rj" group-title="Ao Vivo", carioca
 https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=exp=1629310884~acl=%2f*~data=hdntl~hmac=9d46ca19a7db691abb9dba9779a9191634fbabdcbacf0667b8f27de1afed2349/1474980_448.m3u8?cid=28387&mid=27475114&ecid=1474980&pid=5&dtid=1&ident=872409924584&content=875218
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
-https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/01.MP4
+https://drive.google.com/file/d/1_-6ocmV_MtkVTf0nvfRXW9VSIzJrMajQ/preview
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 02
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/02.MP4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 03
