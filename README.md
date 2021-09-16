@@ -70,7 +70,7 @@ https://spottonefootball.akamaized.net/hls/live/2020170/1294368_1474980/hdntl=ex
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 01
 https://drive.google.com/file/d/1_-6ocmV_MtkVTf0nvfRXW9VSIzJrMajQ/preview
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 02
-https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/02.MP4
+https://www.googleapis.com/drive/v3/files/1_-6ocmV_MtkVTf0nvfRXW9VSIzJrMajQ?alt=media&key=AIzaSyDLn1AEYzsJxomGAjy_gFloIN6IxuMdc-M
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 03
 https://ns570902.ip-51-161-15.net/Uploads/Animes/D/dragon-ball-z-dublado-2-temporada-dublado/03.MP4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/c4/0b/5a/c40b5a14-de38-1e08-50ce-92b0cac14148/mzl.uhbtfymn.png/626x0w.jpg" group-title="Dragon Ball Z", 04
