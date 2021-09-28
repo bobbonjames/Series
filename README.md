@@ -62,7 +62,7 @@ https://superflix.site/?trembed=0&trid=39243&trtype=2
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/a8/ca/0d/a8ca0d0f-0a4f-048b-f2d9-4d65e458d407/pr_source.lsr/626x0w.jpg" group-title="Peaky Blinders", 5x6
 https://superflix.site/?trembed=0&trid=39244&trtype=2
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/46-465732_tnt-over-black-b-tm-cotton-throw-pillow.png" group-title="Ao Vivo", TNT 
-https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs4
+https://futemax.gratis/assistir_no_thanksgod.php?id=esportes7
 #EXTINF:-1 tvg-logo="" group-title="Ao Vivo", ESPN
 https://spottonefootball.akamaized.net/hls/live/2020169-b/1337586_1537336/hdntl=exp=1631453085~acl=%2f*~data=hdntl~hmac=b43745c2d0af0832d9b692025dc4f8f00f197502dc62c8845634a5420ffcbec3/1537336_800.m3u8?cid=28387&mid=27883146&ecid=1537336&pid=5&dtid=1&ident=336183349676&content=938476
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniw8z840Fj4keRpW-PqjSRFWWWNf47WlyYx0UbG=s900-c-k-c0x00ffffff-no-rj" group-title="Ao Vivo", carioca
