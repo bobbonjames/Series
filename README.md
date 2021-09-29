@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x1
-https://futemax.gratis/assistir_no_thanksgod.php?id=esportes590
+https://futemax.gratis/assistir_no_thanksgod.php?id=esportes5
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x2
 https://superflix.site/?trembed=0&trid=39216&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x3
