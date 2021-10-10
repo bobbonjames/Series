@@ -12,7 +12,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_350/inde
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x5
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_350/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x6
-https://superflix.site/?trembed=0&trid=39220&trtype=2
+https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs4
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x1
 https://superflix.site/?trembed=0&trid=39221&trtype=2
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/e4/14/91/e4149114-a028-b969-995d-85a515886187/mzl.vxqekjwk.lsr/640x640sr.png" group-title="Peaky Blinders", 2x2
