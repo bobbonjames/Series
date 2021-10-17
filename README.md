@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x1
-https://spottonefootball.akamaized.net/hls/live/2020176/1426768_1615586/hdntl=exp=1634477553~acl=%2f*~data=hdntl~hmac=e1eb8440ed8b23bb25f3a22d8162b52104a5720e103ea6d9be71e54beb11ee57/1615586_2000.m3u8?cid=28387&mid=27883214&ecid=1615586&pid=5&dtid=1&ident=369194194119&content=999368
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x2
 https://spottonefootball.akamaized.net/hls/live/2020176-b/1426768_1615586/hdntl=exp=1634477553~acl=%2f*~data=hdntl~hmac=e1eb8440ed8b23bb25f3a22d8162b52104a5720e103ea6d9be71e54beb11ee57/1615586_800.m3u8?cid=28387&mid=27883214&ecid=1615586&pid=5&dtid=1&ident=369194194119&content=999368
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x3
