@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x1
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8?md5=c6CvKzuYf-go1TBBfP8Nzw&expires=1635061821
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8?md5=QkjCCvAzDf9z2PINktA5og&expires=1635066239
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x3
