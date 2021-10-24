@@ -4,9 +4,9 @@
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x1
 https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs5
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x3
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_500/index.m3u8
+https://futebolplayhd.com/player/cdn.php?id=esportes3
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x4
 https://b.jazzy.to:30443/live/88/chunks.m3u8?nimblesessionid=15208893&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxMDowMToyMiBQTSZoYXNoX3ZhbHVlPWVoRE1TS2Z0eHR5RDFUdXVKRlpEa3c9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/2e/8b/2c/2e8b2c01-c7ff-09d0-4fd9-efaba9893cb4/mzl.ranbnbzk.lsr/626x0w.jpg" group-title="Peaky Blinders", 1x5
